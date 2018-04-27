@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>controller/tipoUsuario.controller.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>0</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xammp/htdocs/gameStore/vista/layout/layout_header_1.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/vista/catalogos/usuario/registro.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/vista/catalogos/tipoUsuario/tipo_usuario_nuevo.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/controller/login.controller.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/controller/usuario.controller.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/modelo/TipoUsuarioDAO.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/modelo/CargarArchivo.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/modelo/captch.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/controller/videojuegos.controller.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/modelo/UsuarioDAO.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/.htaccess</file>
+            <file>file:/C:/xammp/htdocs/gameStore/index.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/vista/catalogos/usuario/usuario.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/vista/catalogos/tipoUsuario/tipo_usuario_editar.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/vista/login.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/media/js/funciones.js</file>
+            <file>file:/C:/xammp/htdocs/gameStore/vista/catalogos/tipoUsuario/tipo_usuario.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/modelo/Login.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/vista/layout/layout_header.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/modelo/VideoJuego.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/vista/catalogos/usuario/usuario_editar.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/modelo/Usuario.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/vista/catalogos/usuario/usuario_nuevo.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/controller/tipoUsuario.controller.php</file>
+            <file>file:/C:/xammp/htdocs/gameStore/controller/pantallaPrincipal.controller.php</file>
+        </group>
+    </open-files>
+</project-private>

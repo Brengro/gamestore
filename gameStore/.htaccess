@@ -1,0 +1,8 @@
+ErrorDocument 404 /paginadeerror.html
+
+RewriteEngine on
+RewriteCond %{SCRIPT_FILENAME} !-d  
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteRule ^Agregar-Tipo-Usuario/(.*)/(.*)/(.*)/$ index.php?c=$1&a=$2&tipoUsuarioKey=$3
+
+
